@@ -1,5 +1,7 @@
 # Highlights from AOE 3024: Thin-Walled Structures
 
+![Mohr's Circle](images/MohrsCircle1.png)
+
 ## Description
 
 Assignments from the AOE 3024 course in Thin-Walled Structures at Virginia Tech taken in 2011 are highlighed.
