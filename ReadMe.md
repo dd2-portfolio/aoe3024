@@ -4,7 +4,7 @@
 
 ## Description
 
-Assignments from the AOE 3024 course in Thin-Walled Structures at Virginia Tech taken in 2011 are highlighed.
+Assignments from the AOE 3024 course in Thin-Walled Structures at Virginia Tech taken in 2011 are highlighted.
 
 Examples in Mathematica notebooks (*.nb) are duplicated in PDF files (*.pdf).
 
